@@ -1,5 +1,5 @@
 # 💫  Info:
-📚 Currently finishing 42 school software engineering core Curriculum<br><br>Fluent in human languages:<br>🇬🇧  🇪🇸  🇮🇹  🇹🇷<br>Improving my:<br>🇩🇪  🇫🇷
+📚 Recently graduated at 42 school software engineering core Curriculum<br><br>Fluent in:<br>🇬🇧  🇪🇸  🇮🇹  🇹🇷<br>Improving my:<br>🇩🇪  🇫🇷
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/carlo-cattano) 
 
